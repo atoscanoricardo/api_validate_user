@@ -1,0 +1,16 @@
+{
+  "name": "api_validate_user",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/atoscanoricardo/api_validate_user.git",
+  "author": "ALEXANDER ENRIQUE TOSCANO RICARDO <atoscano@correo.unicordoba.edu.co>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
